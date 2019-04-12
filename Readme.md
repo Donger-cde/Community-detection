@@ -1,3 +1,10 @@
+# Community detetction
+## Girvan-Newman algorithm 
+Implements the Girvan-Newman algorithm and outputs the resultant hierarchical decomposition of the network. If there are multiple edges have the same highest betweenness score, remove all of them simultaneously.
+## Modularity
+Implements the calculation of modularity, and outputs the corresponding cluster structure.
+# Input file
+input.txt
 # Environment
 Python3 + PyCharm
 # Dependencies
